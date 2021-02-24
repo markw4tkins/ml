@@ -1,2 +1,2 @@
 # ml
-ML experiements
+ML experiments
